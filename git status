@@ -1,0 +1,29 @@
+[33mcommit efd657da2f361cec771922a25ab5739ab03a2148[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Kipyegon Wilberforce <kenmisik@gmail.com>
+Date:   Sat Jan 8 10:51:53 2022 +0300
+
+    Edit README.md and hello_world.txt
+
+[33mcommit 396a0bf4dc475a6c1b7a197fe76761cdac343879[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Kipyegon Wilberforce <kenmisik@gmail.com>
+Date:   Tue Nov 2 11:54:58 2021 +0300
+
+    Add hello_world.txt
+
+[33mcommit 077525b7daf590f81ac18adc378e9481538fb56f[m
+Author: Kipyegon Wilberforce <kenmisik@gmail.com>
+Date:   Tue Nov 2 10:38:35 2021 +0300
+
+    Add hello_world.txt
+
+[33mcommit ee581ea5694e973d07d4e65426911a0d0b1de1b5[m
+Author: Kipyegon Wilberforce <kenmisik@gmail.com>
+Date:   Mon Nov 1 13:40:32 2021 +0300
+
+    Add hello_world.txt
+
+[33mcommit 2ea035a2e712d96020bb3b77d1facdc2ef4cbf7d[m
+Author: wilberforce001 <36539383+wilberforce001@users.noreply.github.com>
+Date:   Mon Nov 1 13:12:57 2021 +0300
+
+    Initial commit
